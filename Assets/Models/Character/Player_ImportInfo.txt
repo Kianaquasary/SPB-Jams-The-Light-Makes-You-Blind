@@ -1,0 +1,13 @@
+logType=HighQuality
+generation=ActorBuild
+isLOD=false
+qualEyes=Refractive
+qualHair=TwoPass
+bakeIsBaked=true
+tempHairBake=false
+bakeCustomShaders=true
+bakeSeparatePrefab=true
+shaderFlags=-9
+animationSetup=true
+animationRetargeted=2
+rigOverride=Humanoid

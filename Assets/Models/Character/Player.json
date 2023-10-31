@@ -1,0 +1,1852 @@
+﻿{
+    "Player": {
+        "Version": "1.10.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Export Directory": "D:/Character",
+        "Object": {
+            "Player": {
+                "Generation": "ActorBuild",
+                "Physics": {
+                    "Collision Shapes": {
+                        "CC_Base_Hip": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 2.0,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -5.454322814941406,
+                                    4.086012840270996,
+                                    105.01708221435547
+                                ],
+                                "WorldRotationQ": [
+                                    0.8121433854103088,
+                                    0.07486668229103089,
+                                    -0.10692096501588822,
+                                    0.568670392036438
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.0000001192092896,
+                                    1.0000001192092896
+                                ],
+                                "Radius": 8.692730903625489,
+                                "Capsule Length": 24.919790267944337
+                            },
+                            "Capsule(0)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 2.0,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    5.46034574508667,
+                                    4.086012840270996,
+                                    105.01708221435547
+                                ],
+                                "WorldRotationQ": [
+                                    0.8121435046195984,
+                                    -0.07486657798290253,
+                                    0.10692082345485687,
+                                    0.568670392036438
+                                ],
+                                "WorldScale": [
+                                    1.0000001192092896,
+                                    1.000000238418579,
+                                    1.000000238418579
+                                ],
+                                "Radius": 8.692730903625489,
+                                "Capsule Length": 24.919790267944337
+                            }
+                        },
+                        "CC_Base_L_Thigh": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    9.37709903717041,
+                                    2.1964681148529054,
+                                    73.93949127197266
+                                ],
+                                "WorldRotationQ": [
+                                    -0.02881508693099022,
+                                    0.7397529482841492,
+                                    -0.671491801738739,
+                                    -0.03215670585632324
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    0.9999995827674866,
+                                    0.9999994039535523
+                                ],
+                                "Radius": 7.471285820007324,
+                                "Capsule Length": 42.282386779785159
+                            }
+                        },
+                        "CC_Base_L_Calf": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    8.427157402038575,
+                                    4.959367275238037,
+                                    29.14459800720215
+                                ],
+                                "WorldRotationQ": [
+                                    -0.008382491767406464,
+                                    0.7130547165870667,
+                                    -0.7010043859481812,
+                                    -0.008694267831742764
+                                ],
+                                "WorldScale": [
+                                    0.9999995231628418,
+                                    0.9999992847442627,
+                                    0.9999995231628418
+                                ],
+                                "Radius": 6.164681434631348,
+                                "Capsule Length": 35.07795715332031
+                            }
+                        },
+                        "CC_Base_R_Thigh": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -9.384865760803223,
+                                    2.1935672760009767,
+                                    73.9354248046875
+                                ],
+                                "WorldRotationQ": [
+                                    0.028727587312459947,
+                                    0.739715576171875,
+                                    -0.6715412735939026,
+                                    0.03206121176481247
+                                ],
+                                "WorldScale": [
+                                    0.9999999403953552,
+                                    0.9999995827674866,
+                                    0.9999997019767761
+                                ],
+                                "Radius": 7.438785552978516,
+                                "Capsule Length": 42.342063903808597
+                            }
+                        },
+                        "CC_Base_R_Calf": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -8.428790092468262,
+                                    5.048260688781738,
+                                    29.12022590637207
+                                ],
+                                "WorldRotationQ": [
+                                    0.00847302284091711,
+                                    0.7130332589149475,
+                                    -0.7010239958763123,
+                                    0.008780375123023987
+                                ],
+                                "WorldScale": [
+                                    0.9999994039535523,
+                                    0.9999991059303284,
+                                    0.9999995231628418
+                                ],
+                                "Radius": 6.15408992767334,
+                                "Capsule Length": 35.099143981933597
+                            }
+                        },
+                        "CC_Base_Spine01": {
+                            "Capsule(1)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Z",
+                                "Margin": 2.0,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.002340874169021845,
+                                    3.012038230895996,
+                                    128.42831420898438
+                                ],
+                                "WorldRotationQ": [
+                                    0.4455491304397583,
+                                    0.5489899516105652,
+                                    0.44564488530158999,
+                                    0.5490871071815491
+                                ],
+                                "WorldScale": [
+                                    0.9999995231628418,
+                                    0.999999463558197,
+                                    1.0
+                                ],
+                                "Radius": 12.009814262390137,
+                                "Capsule Length": 5.229337692260742
+                            }
+                        },
+                        "CC_Base_NeckTwist01": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.001372461556456983,
+                                    5.998588562011719,
+                                    157.2425994873047
+                                ],
+                                "WorldRotationQ": [
+                                    0.7748420834541321,
+                                    0.0007886735256761313,
+                                    -0.0005973287625238299,
+                                    0.6321540474891663
+                                ],
+                                "WorldScale": [
+                                    1.0000001192092896,
+                                    0.9999997019767761,
+                                    0.9999995231628418
+                                ],
+                                "Radius": 5.2611212730407719,
+                                "Capsule Length": 5.305224418640137
+                            },
+                            "Capsule(0)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Z",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -0.02212747000157833,
+                                    5.216643810272217,
+                                    143.5731658935547
+                                ],
+                                "WorldRotationQ": [
+                                    0.5483185052871704,
+                                    0.44755807518959048,
+                                    0.5474737286567688,
+                                    0.44644275307655337
+                                ],
+                                "WorldScale": [
+                                    0.999999463558197,
+                                    0.9999997019767761,
+                                    1.0
+                                ],
+                                "Radius": 10.932323455810547,
+                                "Capsule Length": 13.708885192871094
+                            },
+                            "Capsule(1)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -7.026182651519775,
+                                    0.6817607283592224,
+                                    141.10986328125
+                                ],
+                                "WorldRotationQ": [
+                                    0.3085608184337616,
+                                    0.6369863748550415,
+                                    0.30826500058174136,
+                                    0.6356188058853149
+                                ],
+                                "WorldScale": [
+                                    0.9999995827674866,
+                                    0.9999995231628418,
+                                    1.0
+                                ],
+                                "Radius": 7.259904861450195,
+                                "Capsule Length": 13.24941635131836
+                            },
+                            "Capsule(2)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    6.973788738250732,
+                                    0.6882986426353455,
+                                    141.08294677734376
+                                ],
+                                "WorldRotationQ": [
+                                    0.3085608184337616,
+                                    0.6369863748550415,
+                                    0.30826500058174136,
+                                    0.6356188058853149
+                                ],
+                                "WorldScale": [
+                                    0.9999995827674866,
+                                    0.9999995231628418,
+                                    1.0
+                                ],
+                                "Radius": 7.259904861450195,
+                                "Capsule Length": 13.24941635131836
+                            }
+                        },
+                        "CC_Base_Head": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -0.019748568534851075,
+                                    3.0655713081359865,
+                                    170.12374877929688
+                                ],
+                                "WorldRotationQ": [
+                                    0.7071055173873901,
+                                    0.0,
+                                    0.0,
+                                    0.7071080207824707
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    0.9999996423721314,
+                                    0.9999995231628418
+                                ],
+                                "Radius": 7.414434909820557,
+                                "Capsule Length": 6.968161582946777
+                            }
+                        },
+                        "CC_Base_L_Upperarm": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    28.654529571533204,
+                                    9.305242538452149,
+                                    148.03414916992188
+                                ],
+                                "WorldRotationQ": [
+                                    0.4938202500343323,
+                                    0.5118309259414673,
+                                    -0.49342304468154909,
+                                    0.5007038712501526
+                                ],
+                                "WorldScale": [
+                                    0.999999463558197,
+                                    0.9999997615814209,
+                                    0.9999997019767761
+                                ],
+                                "Radius": 5.045429229736328,
+                                "Capsule Length": 22.94369125366211
+                            }
+                        },
+                        "CC_Base_L_Forearm": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    56.38536071777344,
+                                    9.329113960266114,
+                                    149.23602294921876
+                                ],
+                                "WorldRotationQ": [
+                                    0.5002377033233643,
+                                    0.5024981498718262,
+                                    -0.4917212128639221,
+                                    0.5054386258125305
+                                ],
+                                "WorldScale": [
+                                    0.9999992847442627,
+                                    0.9999997019767761,
+                                    0.9999994039535523
+                                ],
+                                "Radius": 4.368341445922852,
+                                "Capsule Length": 21.781400680541993
+                            }
+                        },
+                        "CC_Base_L_Hand": {
+                            "Capsule": {
+                                "Bone Active": false,
+                                "Bound Type": "Box",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    73.70013427734375,
+                                    8.476396560668946,
+                                    149.15689086914063
+                                ],
+                                "WorldRotationQ": [
+                                    0.4996386170387268,
+                                    0.5200144052505493,
+                                    -0.48605817556381228,
+                                    0.4936535060405731
+                                ],
+                                "WorldScale": [
+                                    0.9999992847442627,
+                                    0.9999997019767761,
+                                    0.9999995827674866
+                                ],
+                                "Extent": [
+                                    4.522912502288818,
+                                    9.572022438049317,
+                                    8.070649147033692
+                                ]
+                            }
+                        },
+                        "CC_Base_R_Upperarm": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -28.661596298217775,
+                                    9.305908203125,
+                                    148.00259399414063
+                                ],
+                                "WorldRotationQ": [
+                                    -0.493796169757843,
+                                    0.5115776062011719,
+                                    -0.4945267140865326,
+                                    -0.4998970031738281
+                                ],
+                                "WorldScale": [
+                                    0.9999992251396179,
+                                    0.9999997019767761,
+                                    0.9999995827674866
+                                ],
+                                "Radius": 5.045190811157227,
+                                "Capsule Length": 22.957778930664064
+                            }
+                        },
+                        "CC_Base_R_Forearm": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -56.38825225830078,
+                                    9.312969207763672,
+                                    149.17535400390626
+                                ],
+                                "WorldRotationQ": [
+                                    0.4998931586742401,
+                                    -0.5030645728111267,
+                                    0.491211473941803,
+                                    0.5057116150856018
+                                ],
+                                "WorldScale": [
+                                    0.9999993443489075,
+                                    0.9999996423721314,
+                                    0.9999997615814209
+                                ],
+                                "Radius": 4.368198394775391,
+                                "Capsule Length": 21.76650619506836
+                            }
+                        },
+                        "CC_Base_R_Hand": {
+                            "Capsule": {
+                                "Bone Active": false,
+                                "Bound Type": "Box",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -73.71724700927735,
+                                    8.749929428100586,
+                                    149.08425903320313
+                                ],
+                                "WorldRotationQ": [
+                                    -0.49973008036613467,
+                                    0.5199330449104309,
+                                    -0.4859699606895447,
+                                    -0.49373337626457217
+                                ],
+                                "WorldScale": [
+                                    0.9999992251396179,
+                                    0.9999996423721314,
+                                    0.9999995231628418
+                                ],
+                                "Extent": [
+                                    5.314803123474121,
+                                    9.57332992553711,
+                                    8.195566177368164
+                                ]
+                            }
+                        },
+                        "Default_band_Default": {
+                            "": {
+                                "Bone Active": false,
+                                "Bound Type": "Box",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "WorldRotationQ": [
+                                    0.0,
+                                    0.0,
+                                    0.0,
+                                    1.0
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "Extent": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ]
+                            }
+                        }
+                    }
+                },
+                "Meshes": {
+                    "Default_CC_Game_Body_Default": {
+                        "Materials": {
+                            "Default_Kevin_actorBUILD_Default": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    51.0,
+                                    51.0,
+                                    51.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Glow": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_Glow.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Normal.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_ao.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_MetallicAlpha.png"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_HDRP.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Default_CC_Game_Tongue_Default": {
+                        "Materials": {
+                            "Default_Kevin_actorBUILD_Default": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    51.0,
+                                    51.0,
+                                    51.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Glow": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_Glow.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Normal.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_ao.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_MetallicAlpha.png"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_HDRP.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Default_Tank_Top_Default": {
+                        "Materials": {
+                            "Default_Kevin_actorBUILD_Default": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    51.0,
+                                    51.0,
+                                    51.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Glow": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_Glow.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Normal.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_ao.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_MetallicAlpha.png"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_HDRP.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Default_Biker_Vest_Default": {
+                        "Materials": {
+                            "Default_Kevin_actorBUILD_Default": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    51.0,
+                                    51.0,
+                                    51.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Glow": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_Glow.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Normal.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_ao.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_MetallicAlpha.png"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_HDRP.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Default_band_Default": {
+                        "Materials": {
+                            "Default_Kevin_actorBUILD_Default": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    51.0,
+                                    51.0,
+                                    51.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Glow": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_Glow.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Normal.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_ao.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_MetallicAlpha.png"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_HDRP.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Default_Utility_Joggers_Default": {
+                        "Materials": {
+                            "Default_Kevin_actorBUILD_Default": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    51.0,
+                                    51.0,
+                                    51.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Glow": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_Glow.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Normal.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_ao.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_MetallicAlpha.png"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_HDRP.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Default_MaleB_S_T002_Default": {
+                        "Materials": {
+                            "Default_Kevin_actorBUILD_Default": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    51.0,
+                                    51.0,
+                                    51.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Glow": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_Glow.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Normal.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_ao.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_MetallicAlpha.png"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_HDRP.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Default_Armor_Lower_Default": {
+                        "Materials": {
+                            "Default_Kevin_actorBUILD_Default": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    51.0,
+                                    51.0,
+                                    51.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Glow": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_Glow.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Normal.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_ao.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_MetallicAlpha.png"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_HDRP.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Default_Armor_Arms_Default": {
+                        "Materials": {
+                            "Default_Kevin_actorBUILD_Default": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    51.0,
+                                    51.0,
+                                    51.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Glow": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_Glow.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Normal.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_ao.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_MetallicAlpha.png"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_HDRP.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Default_CC_Base_Eye_Default": {
+                        "Materials": {
+                            "Default_Kevin_actorBUILD_Default": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    51.0,
+                                    51.0,
+                                    51.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Glow": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_Glow.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Normal.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_ao.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_MetallicAlpha.png"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_HDRP.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Default_CC_Base_Teeth_Default": {
+                        "Materials": {
+                            "Default_Kevin_actorBUILD_Default": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    51.0,
+                                    51.0,
+                                    51.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Glow": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_Glow.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Player.fbm/Default_Kevin_actorBUILD_Default_Normal.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_ao.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_MetallicAlpha.png"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Player/Player/Default_Biker_Vest_Default/Default_Kevin_actorBUILD_Default/Default_Kevin_actorBUILD_Default_HDRP.png"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
